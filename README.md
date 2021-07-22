@@ -1,12 +1,10 @@
 ## Programa de Mentoria Entre Alunos DSA – Turma 2 - Temporada 2021
 Repositório direcionado para o programa de mentoria da Data Science Academy
-Grupo:
-#### Mentor: 
-- Fábio Célio Carneiro da Silva Borges
-#### Membros:
-- André Forte Sepúlveda
-- Carlos Alberto Merlo
-- Joäo Paulo Braum
+### Grupo:
+- Fábio Célio Carneiro da Silva Borges (Mentor)
+- André Forte Sepúlveda (Membro)
+- Carlos Alberto Merlo (Membro)
+- Joäo Paulo Braum (Membro)
 
 # Sistema de Recomendação para o cidadão e empresas às melhores formas de acesso à justiça
 
