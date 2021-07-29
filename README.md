@@ -32,9 +32,6 @@ Para o melhor entendimento do problema de negócio e aprofundamento na definiç�
 </ol>
 
 
-(continua)
-
-
 ### Referências Consultadas:
 
 Enrico Francesconi, Simonetta Montemagni, Wim Peters e Daniela Tiscornia. Semantic processing of legal texts: Where the language of law meets the law of language. Vol. 6036. Springer, 2010.
