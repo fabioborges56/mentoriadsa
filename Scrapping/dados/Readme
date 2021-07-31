@@ -1,0 +1,15 @@
+Dados extraidos atraves do scrapper criado com intuido de treinar um modelo de classificação.
+
+Foram extraidos dados dos seguintes foruns:
+
+-https://forumjuridico.org/
+-https://www.perguntedireito.com.br
+
+Dados extraidos:
+-Titulo da postagem
+-Data da postagem
+-Postagem
+-Url da postagem
+-Quantidade de respostas
+-Quantidade de visualizacoes (quando disponivel)
+-Area juridica a qual a postagem se refere
